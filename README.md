@@ -1,7 +1,5 @@
 # Welcome to my GitHub profile!
 
-<img src="https://web.koyu.space/favicon.png" style="float:right;" height="200">
-
 I'm Leonie and this is my GitHub profile. Other than my GitLab profile only serious code will land here e.g. things that are mission-critical to koyu.space or I poured more time and love into rather than being some little toys.
 
 I hope you will find something interesting here that may enrich your life.
