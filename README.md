@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile!
 
-I'm Leonie and this is my GitHub profile. Other than my GitLab profile only serious code will land here e.g. things that are mission-critical to koyu.space or I poured more time and love into rather than being some little toys.
+I'm Leonie and this is my GitHub profile. Other than my [Gitlab](https://gitlab.com/koyuawsmbrtn) profile only serious code will land here e.g. things that are mission-critical to koyu.space or I poured more time and love into rather than being some little toys.
 
 I hope you will find something interesting here that may enrich your life.
 
