@@ -12,3 +12,9 @@ Btw if you want your own cool little GitHub front page on your profile just crea
 * [Nordcast](/koyuspace/nordcast)
 * [E43](/koyuawsmbrtn/e43) (discontinued)
 * [ImperiumCMS](/koyuspace/imperiumcms) (discontinued)
+
+<br><br>
+
+<p align="center">
+  <img src="https://media1.tenor.com/images/b1b09b711e4d44b558dc177e8951a010/tenor.gif" height="96">
+</p>
