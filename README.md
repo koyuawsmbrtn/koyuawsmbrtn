@@ -10,7 +10,7 @@ Btw if you want your own cool little GitHub front page on your profile just crea
 
 * [koyu.space](/koyuspace/mastodon)
 * [Nordcast](/koyuspace/nordcast)
-* [E43](/koyuawsmbrtn/e43) (discontinued)
+* [E43](/koyuawsmbrtn/e43)
 * [ImperiumCMS](/koyuspace/imperiumcms) (discontinued)
 
 <br><br>
