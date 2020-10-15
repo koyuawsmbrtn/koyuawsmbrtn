@@ -8,10 +8,10 @@ Btw if you want your own cool little GitHub front page on your profile just crea
 
 ## Noteworthy projects
 
-* [koyu.space](/koyuspace/mastodon)
-* [Nordcast](/koyuspace/nordcast)
-* [E43](/koyuawsmbrtn/e43)
-* [ImperiumCMS](/koyuspace/imperiumcms) (discontinued)
+* [koyu.space](https://github.com/koyuspace/mastodon)
+* [Nordcast](https://github.com/koyuspace/nordcast)
+* [E43](https://github.com/koyuawsmbrtn/e43)
+* [ImperiumCMS](https://github.com/koyuspace/imperiumcms) (discontinued)
 
 <br><br>
 
