@@ -6,13 +6,6 @@ I hope you will find something interesting here that may enrich your life.
 
 Btw if you want your own cool little GitHub front page on your profile just create a repository like `yourusername/yourusername`.
 
-## Noteworthy projects
-
-* [koyu.space](https://github.com/koyuspace/mastodon)
-* [Nordcast](https://github.com/koyuspace/nordcast)
-* [E43](https://github.com/koyuawsmbrtn/e43)
-* [ImperiumCMS](https://github.com/koyuspace/imperiumcms) (discontinued)
-
 <br><br>
 
 <p align="center">
