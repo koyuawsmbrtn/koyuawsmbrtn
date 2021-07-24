@@ -6,8 +6,10 @@ I hope you will find something interesting here that may enrich your life.
 
 Btw if you want your own cool little GitHub front page on your profile just create a repository like `yourusername/yourusername`.
 
+You can find more on my [personal website](https://web.koyu.space).
+
 <br><br>
 
 <p align="center">
-  <img src="https://media1.tenor.com/images/b1b09b711e4d44b558dc177e8951a010/tenor.gif" height="96">
+  <img src="https://media.giphy.com/media/mWrHmfUTnH2BLMavgK/giphy.gif" height="200">
 </p>
