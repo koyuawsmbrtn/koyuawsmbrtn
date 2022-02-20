@@ -19,4 +19,4 @@ If you want your own cool little GitHub front page on your profile just create a
 
 - Live coding and gaming on <a href="https://www.twitch.tv/koyuawsmbrtn">Twitch</a> 📺
 - I'm also on the [fediverse](https://koyu.space/@koyuchan) 🚀
-- My personal website can be found [here](https://web.koyu.space) and the Gemini version [here](gemini://koyu.space/koyu/)
+- My personal website can be found [here](https://web.koyu.space) and the Gemini version at gemini://koyu.space/koyu/
