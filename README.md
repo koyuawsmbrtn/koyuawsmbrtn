@@ -5,7 +5,7 @@
   src="https://github-readme-stats.vercel.app/api/?username=koyuawsmbrtn&theme=dracula"
 />
 
-I'm Leonie and this is my GitHub profile. Other than my [Gitlab](https://gitlab.com/koyuawsmbrtn) profile only serious code will land here e.g. things that are mission-critical to koyu.space or I poured more time and love into rather than being some little toys.
+I'm Leonie and this is my GitHub profile. This is what I made for me and koyu.space. I'm a fan of the Dracula color scheme, late night raves and cola.
 
 I hope you will find something interesting here that may enrich your life.
 
