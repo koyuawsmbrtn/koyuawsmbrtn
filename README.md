@@ -15,7 +15,9 @@ If you want your own cool little GitHub front page on your profile just create a
 
 <br><br>
 
-# Find me around the web 🌎 <img align="left" src="https://media.giphy.com/media/mWrHmfUTnH2BLMavgK/giphy.gif" height="200">
+# Find me around the web 🌎
+
+<img align="left" src="https://media.giphy.com/media/mWrHmfUTnH2BLMavgK/giphy.gif" height="200">
 
 - Live coding and gaming on <a href="https://www.twitch.tv/koyuawsmbrtn">Twitch</a> 📺
 - I'm also on the [fediverse](https://kopimi.space/@koyu) 🚀
